@@ -1,10 +1,13 @@
 {
   "expo": {
-    "name": "KSCJShareApp",
-    "slug": "KSCJShareApp",
+    "name": "KSCJ SHARE",
+    "slug": "KSCJ SHARE",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "orientation": "portrait",
+    "icon": "./assets/Logo1.jpg",
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "favicon": "./assets/Logo1.jpg"
+    }
   }
 }
